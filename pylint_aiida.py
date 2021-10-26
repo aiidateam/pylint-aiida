@@ -1,4 +1,4 @@
-"""pylint plugin for ``aiida-core`` specific issues."""
+"""A small plugin for aiida-core related linting."""
 import astroid
 
 __version__ = "0.1.0"
