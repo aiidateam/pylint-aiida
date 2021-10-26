@@ -1,7 +1,7 @@
 """A small plugin for aiida-core related linting."""
 import astroid
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 
 def register(linter):  # pylint: disable=unused-argument
